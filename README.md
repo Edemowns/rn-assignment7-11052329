@@ -23,8 +23,8 @@ This is a React Native application for an e-commerce store, allowing users to br
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone  https://github.com/Edemowns/rn-assignment7-11052329.git
+    cd  https://github.com/Edemowns/rn-assignment7-11052329.git
     ```
 
 2. **Install dependencies:**
@@ -46,7 +46,7 @@ This is a React Native application for an e-commerce store, allowing users to br
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./screenshoTS/HomeScreen.png)
+![Home Screen](./screenshotS/HomeScreen.png)
 
 ### Drawer HomeScreen
 ![Checkout Screen](./screenshots/Drawer.png)
