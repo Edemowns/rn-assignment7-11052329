@@ -46,7 +46,7 @@ This is a React Native application for an e-commerce store, allowing users to br
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./screenshotS/HomeScreen.png)
+![Home Screen](./screenshots/HomeScreen.png)
 
 ### Drawer HomeScreen
 ![Checkout Screen](./screenshots/Drawer.png)
